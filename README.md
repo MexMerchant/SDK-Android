@@ -1,8 +1,6 @@
 Cardstream Android SDK
 ==============
 
-**Currently only makes use of the Cardstream direct integration, therefore PCI compliance will be necessary**
-
 Overview
 ---------
 
