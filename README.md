@@ -1,4 +1,4 @@
-Cardstream Android SDK
+ Android SDK
 ==============
 
 Overview
