@@ -4,7 +4,7 @@ Cardstream Android SDK
 Overview
 ---------
 
-Android SDK that can be used to allow the use of the Cardstream payment gateway within an Android application.
+Android SDK that can be used to allow the use of the payment gateway within an Android application.
 
 Requirements
 ------------
